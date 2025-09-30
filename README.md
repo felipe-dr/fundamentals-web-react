@@ -32,6 +32,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a target="_blank" href="https://github.com/css-modules/css-modules">
+    <img src="https://img.shields.io/static/v1?style=plastic&color=red&label=CSSModules&message=Style&logo=cssmodules" alt="CSSModules" />
+  </a>
+</p>
+
 ## Índice
 
 <ol>
@@ -82,6 +88,7 @@ A aplicação estará disponível em http://localhost:3000.
 - [Phosphoricons](https://phosphoricons.com/)
 - [Date-fns](https://date-fns.org/)
 - [Vite](https://vite.dev/)
+- [CSSModules](https://github.com/css-modules/css-modules)
 
 > **DICA !**
 >
